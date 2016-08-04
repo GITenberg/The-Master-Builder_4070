@@ -1,0 +1,51 @@
+_repo: The-Master-Builder_4070
+_version: 0.0.1
+alternative_title: Bygmester Solness. English
+contributor:
+  translators:
+  - agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund W. (Edmund William)
+    - Gosse, Edmund William, Sir
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+  - agent_name: Archer, William
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '3729'
+    url: http://www.gutenberg.org/2009/agents/3729
+    wikipedia: http://en.wikipedia.org/wiki/William_Archer_(critic)
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: The Master Builder was the first work Ibsen wrote upon after his return
+  to Norway from Europe in July 1891. It is generally grouped with the three other
+  works written during this late period of Ibsen's life - Little Eyolf, John Gabriel
+  Borkman, and When We Dead Awaken - as "symbolic plays" which lack the thematic clarity
+  of such earlier works as Hedda Gabler. Early reactions to the play by Ibsen's critics
+  were mixed, probably due its heightened symbolism, much of which is unclear. Hilde,
+  for example, seems to alternate roles between an inspiring force, urging Solness
+  to temper his ra.
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian drama -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Architects -- Drama'
+- GITenberg
+title: The Master Builder
+url: http://www.gutenberg.org/ebooks/4070
